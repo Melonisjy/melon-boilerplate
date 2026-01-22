@@ -77,20 +77,3 @@ npm start
 ```env
 NEXT_PUBLIC_API_URL=http://localhost:3000/api
 ```
-
-## 주요 기능
-
-- ✅ Next.js App Router 설정
-- ✅ TypeScript 설정
-- ✅ Zustand 상태 관리 예제
-- ✅ TanStack Query 데이터 페칭 예제
-- ✅ Tailwind CSS 스타일링
-- ✅ API 클라이언트 (Axios) 설정
-- ✅ 인증 기능 예제 (auth feature)
-- ✅ 게시글 기능 예제 (post feature)
-- ✅ 공통 UI 컴포넌트 (Button, Spinner)
-- ✅ 유틸리티 함수 (cn, motion)
-
-## 라이선스
-
-MIT
